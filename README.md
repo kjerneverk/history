@@ -45,3 +45,5 @@ await manager.save();
 
 MIT
 
+<!-- v1.0.0 -->
+
