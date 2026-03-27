@@ -6,7 +6,7 @@
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { join, dirname } from "node:path";
-import type { PlanHistory } from "@riotprompt/riotplan";
+import type { PlanHistory } from "@kjerneverk/riotplan";
 
 /**
  * History manager interface

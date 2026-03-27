@@ -4,7 +4,7 @@
  * Create and manage plan revisions.
  */
 
-import type { PlanHistory, PlanRevision } from "@riotprompt/riotplan";
+import type { PlanHistory, PlanRevision } from "@kjerneverk/riotplan";
 
 /**
  * Extended revision info with computed fields

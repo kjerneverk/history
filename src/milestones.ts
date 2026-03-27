@@ -4,7 +4,7 @@
  * Create and manage plan milestones.
  */
 
-import type { PlanHistory, PlanMilestone } from "@riotprompt/riotplan";
+import type { PlanHistory, PlanMilestone } from "@kjerneverk/riotplan";
 
 /**
  * Extended milestone info
